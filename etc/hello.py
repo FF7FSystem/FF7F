@@ -7,6 +7,6 @@ CONFIG = {
         '--daemon',
         '--workers=2',
         '--timeout=60',
-        'ff7f:app',
+        'hello:app',
     ),
 }
